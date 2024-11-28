@@ -1,0 +1,6 @@
+1. crop_processing.py 파일을 실행하여 패널위 작물을 개별로 분리
+2. refine_crops.py 파일을 실행하여 개별로 분리된 작물의 주변 이미지 세밀하게 제거
+3. data_preprocessing.py 파일을 실행하여 이미지와 라벨링(생육조사) 매칭하고 Train 데이터와 Test 데이터로 분류
+4. train_model.py 파일을 실행하여 학습
+5. evaluate_model.py 파일을 실행하여 검증
+
